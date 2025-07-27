@@ -21,3 +21,4 @@ chmod +x afbsia.sh
 
 ## License
 MIT
+![Bash Lint](https://github.com/ashkanfallahi/afbsia-recon/actions/workflows/bash-lint.yml/badge.svg)
